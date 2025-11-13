@@ -182,13 +182,11 @@ button:hover {
     .banner h1 {
         width: 100%;
         height: auto;
-        background-color: bisque;
         padding: 10px 0;
     }
 
     .banner ul {
         width: 100%;
-        background-color: antiquewhite;
     }
 
     .nev li {
