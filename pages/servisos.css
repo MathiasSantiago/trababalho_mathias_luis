@@ -82,7 +82,6 @@ a {
   background-color: #0066cc;
 }
 
-/* GRID BASE */
 .grid-servicos {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
